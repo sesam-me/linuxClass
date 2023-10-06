@@ -1,6 +1,6 @@
 spring:
   datasource:
 #    prod는 cloud에 올라간거
-    url: jdbc:mysql://10.128.0.5:3306/test?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+    url: jdbc:mysql://34.31.33.209:3306/test?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
     username: test
     password: 1234
